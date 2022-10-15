@@ -15,7 +15,8 @@ This is a web based application developed for News related article based website
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About Us, Contact, News Updates and Category wise information etc.
 - User can know about News Updates through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+- Included the feedback Survey form to increase the scope of improvement.
+- Features like Commenting,Searching,Categories are present.
 
 #### Screenshots ####
   
@@ -31,7 +32,12 @@ This is a web based application developed for News related article based website
   
   ![Screenshot 2022-10-15 221743](https://user-images.githubusercontent.com/88915426/195998361-e0eb8e8d-31c5-4925-94dc-f1111283a642.png)
 
-  ![Screenshot 2022-10-15 222415](https://user-images.githubusercontent.com/88915426/195998621-e24c28d5-6ab1-40d9-ab23-3016defa9481.png)
+  ![Screenshot 2022-10-15 223821](https://user-images.githubusercontent.com/88915426/195999205-94a89bbf-8487-4b97-b85a-ae61ad9bb221.png)
+
+
+### Comments-
+
+  ![Screenshot 2022-10-15 224412](https://user-images.githubusercontent.com/88915426/195999384-a5256e01-325d-4539-93d6-cca26a9b32cb.png)
 
    
 
